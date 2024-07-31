@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(176, 252, 195, 0.3);
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(102, 102, 102);
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+ul li {
+    color: rgb(102, 102, 102);
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+}
+
+ol li {
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+}
